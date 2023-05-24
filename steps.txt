@@ -1,0 +1,36 @@
+    1  apt-get update
+    2  apt-get install -y python
+    3  python
+    4  apt-get install -y python3
+    5  apt-get install python-pip
+    6  clear
+    7  ls
+    8  clear
+    9  cat > requirements.txt
+   10  clear
+   11  ls
+   12  pip install -r requirements.txt
+   13  pip -V
+   14  python
+   15  python3
+   16  apt-get install python-pip
+   17  clear
+   18  pip install -r requirements.txt
+   19  pip install streamlit
+   20  apt-get install python3-pip
+   21  clear
+   22  pip install -r requirements.txt
+   23  ls
+   24  cat requirements.txt 
+   25  clear
+   26  cat > req.txt
+   27  clear
+   28  pip install -r req.txt
+   29  vi req.txt 
+   30  ls
+   31  rm req.txt
+   32  cat > req.txt
+   33  clear
+   34  pip install -r req.txt
+   35  clear
+   36  history
